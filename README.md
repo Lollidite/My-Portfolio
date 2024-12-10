@@ -4,5 +4,5 @@
 <br/>
 <br/>
 
-$${\color{lightblue}Hi,\space DevSolo \space Here}$$ 👋
+$${\color{green}Hi,\space DevSolo \space Here}$$ 👋
 
