@@ -11,7 +11,7 @@ I am currently working towards being a PRO Builder (Minecraft only) and Software
 <br/>
 
 <details>
-  <summary>Working With</summary>
+  <summary>Programming Languages im interested in..</summary>
   
   #
   
