@@ -5,4 +5,4 @@ WORKING ON A MORE VISUAL REPRESENTATION
 <br/>
 
 # Hello, Im DevSolo
-i am currently working towards being a PRO Minecraft Builder and Software Developer.
+I am currently working towards being a PRO Minecraft Builder and Software Developer.
