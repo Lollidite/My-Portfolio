@@ -4,5 +4,5 @@
 <br/>
 <br/>
 
-`#E8E43A` **Hi, DevSolo Here** 👋
+$${\color{yellow}Yellow}$$**Hi, DevSolo Here** 👋
 
