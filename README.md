@@ -11,7 +11,9 @@ I am currently working towards being a PRO Builder (Minecraft only) and Software
 <br/>
 
 <details>
-  <summary>Programming Languages</summary>
-  > - [x] **Java - Intermediate**
-  > - [ ] **Luau - Beginner**
+  <summary>Interested In</summary>
+  
+  - [x] **Java - Intermediate**
+  - [ ] **Luau - Beginner**
+        
 </details>
