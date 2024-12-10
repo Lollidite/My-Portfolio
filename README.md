@@ -2,5 +2,5 @@
 > [!NOTE]
 WORKING ON A MORE VISUAL REPRESENTATION
 
-<p>test
+<p>test <br/>
 test2</p>
