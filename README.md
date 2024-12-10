@@ -12,7 +12,8 @@ I am currently working towards being a PRO Builder (Minecraft only) and Software
 
 <details>
   <summary>Working With</summary>
-  # Interested in these programming languages
+  
+  # Im interested in these languages
   
   - [x] **Java - Intermediate**
   - [ ] **Luau - Beginner**
