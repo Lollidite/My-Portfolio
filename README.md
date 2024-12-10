@@ -11,11 +11,11 @@ I am currently working towards being a PRO Builder (Minecraft only) and Software
 <br/>
 
 <details open>
-  <summary>Programming languages I'm interested in..</summary>
+  <summary>Programming languages I work with..</summary>
   
   #
   
   - [x] **Java - Intermediate**
-  - [ ] **Luau - Beginner**
+  - [x] **Luau - Beginner**
         
 </details>
