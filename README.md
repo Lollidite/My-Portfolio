@@ -10,6 +10,6 @@ I am currently working towards being a PRO Builder (Minecraft only) and Software
 <br/>
 <br/>
 
-Known Languages [^1] :
+Languages i am interested in:
 - [x] **Java - Intermediate**
 - [ ] **Luau - Beginner**
