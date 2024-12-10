@@ -2,4 +2,4 @@
 > [!NOTE]
 WORKING ON A MORE VISUAL REPRESENTATION
 
-<p style="font-size: 500;"> test </p>
+<p style="font-size: 500px;"> test </p>
