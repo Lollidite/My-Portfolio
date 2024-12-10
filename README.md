@@ -1,10 +1,9 @@
 
 **WORKING ON A MORE VISUAL REPRESENTATION** 
-pages.github.com
+> pages.github.com
 
-#
-#
 
-Hi, Dev or Solo here 👋
+
+Hi, Dev or Solo here
 
 
