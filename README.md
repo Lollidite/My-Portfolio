@@ -7,5 +7,6 @@ WORKING ON A MORE VISUAL REPRESENTATION
 # Hello, Im DevSolo 👋
 I am currently working towards being a PRO Builder (Minecraft only) and Software Developer.
 
-- [x] **Java - Intermediate**
-- [ ] **Luau - Beginner**
+
+[x] **Java - Intermediate**
+[ ] **Luau - Beginner**
